@@ -1,5 +1,5 @@
 ---
 layout: page.njk
-title: my index page for less mess
+title: this is the index.md from _posts
 ---
 # {{ title }}

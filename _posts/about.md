@@ -1,5 +1,5 @@
 ---
 layout: page.njk
-title: about page
+title: this is about.md from _posts
 ---
 # {{ title }}
