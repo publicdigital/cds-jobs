@@ -7,7 +7,7 @@ title: Welcome to Less Mess
 <p>This site doesn't take any fees or payment for recommendations, it's simply a list of products and services we know work well for normal people who just want to make less mess in the world.</p>
 
 ### What are you looking for?
-<ul>
+<ul class="sections">
 {%- for category in collections.category -%}
   <li><a href="{{ category.data.url }}">{{ category.data.title }}</a></li>
 {%- endfor -%}
