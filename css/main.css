@@ -1,6 +1,7 @@
 body{
 	margin:2em;
     font-family: 'Dosis', sans-serif;
+    text-align:center;
 }
 
 header h1{
@@ -15,4 +16,6 @@ header, header p{
 }
 main{
 	width:60%;
+	text-align:left;
+	margin:2em auto;
 }
