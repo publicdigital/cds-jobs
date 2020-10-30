@@ -44,3 +44,19 @@ body#entry img{
 	width:50%;
 	margin:0 1em 0 0;
 }
+body#entry main h1 span{
+	font-size:75%;
+}
+body#entry main h1 a:visited,
+body#entry main h1 a:hover,
+body#entry main h1 a:link,
+body#entry main h1 a:active{
+	text-decoration:none;
+	color:#999;
+}
+
+body#entry main h1 a:hover,
+body#entry main h1 a:active{
+	text-decoration:underline;
+	color:#999;
+}
