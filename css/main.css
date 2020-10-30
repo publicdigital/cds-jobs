@@ -10,6 +10,14 @@ header h1{
 	margin:0;
 	padding:0;
 }
+header h1 a{
+	text-decoration:none;
+	color:#000;
+}
+header h1 a:hover,
+header h1 a:active{
+	text-decoration:underline;
+}
 header, header p{
 	margin:0;
 	padding:0;
