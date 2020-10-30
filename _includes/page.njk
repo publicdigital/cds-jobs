@@ -1,16 +1,4 @@
----
-title: Basic template
----
-
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/css/main.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dosis:wght@400;700&display=swap" rel="stylesheet">
-    <title>{{ title }}</title>
-  </head>
+{%- include "header.njk" %}
   <body>
   	<header>
   	<h1><a href="/">Less Mess</a></h1>
@@ -19,5 +7,4 @@ title: Basic template
     <main>
     {{ content | safe }}
     </main>
-  </body>
-</html>
+{%- include "footer.njk" %}
