@@ -9,6 +9,7 @@ image: "/assets/bite.jpg"
 ---
 # {{ title }}
 <img src=" {{ image }}"/>
+<h2>What do they make</h2>
 <p>{{ shortdesc }}</p>
 <p><a href=" {{ destination }} ">Visit {{ title }}</a>
 

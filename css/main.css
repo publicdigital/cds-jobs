@@ -33,7 +33,6 @@ ul.sections li{
 	background-color:#C9F19F;
 }
 body#entry main{
-	border:1px solid black;
 	padding:1em;
 	overflow:auto;
 }
