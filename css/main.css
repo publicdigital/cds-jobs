@@ -48,10 +48,27 @@ body#entry main h1{
 	border-bottom:1px solid black;
 }
 body#entry img{
-	float:left;
-	width:50%;
 	margin:0 1em 0 0;
+	max-width:100%;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr;
+  grid-template-rows: 1fr;
+  grid-template-areas:
+    "promo-image full-details";
+  gap: 0em 1em;
+}
+
+.promo-image { 
+	grid-area: promo-image; 
+}
+.full-details { 
+	grid-area: full-details; 
+}
+
+
 body#entry main h1 span{
 	font-size:75%;
 }

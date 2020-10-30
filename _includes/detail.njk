@@ -1,8 +1,16 @@
 
-# <span><a href=" /{{tags}} ">{{ tags }}</a> ⇀</span> {{ title }}
-<img src=" {{ image }}"/>
-<h2>What do they make</h2>
-<p>{{ shortdesc }}</p>
-<p><a href=" {{ destination }} ">Visit {{ title }}</a>
+<h1><span><a href=" /{{tags}} ">{{ tags }}</a> ⇀</span> {{ title }}</h1>
 
-<h2>Why Less Mess recommends</h2>
+
+<div class="grid-container">
+	<div class="promo-image">
+		<img src="{{ image }}"/>
+	</div>
+	<div class="full-details">
+		<h2>What do they make</h2>
+		<p>{{ shortdesc }}</p>
+		<p><a href="{{ destination }}">Visit {{ title }}</a></p>
+		<h2>Why Less Mess recommends</h2>
+		<p>{{ review }}</p>
+	</div>
+</div>
