@@ -32,3 +32,16 @@ ul.sections li{
 	padding:2em;
 	background-color:#C9F19F;
 }
+body#entry main{
+	border:1px solid black;
+	padding:1em;
+	overflow:auto;
+}
+body#entry main h1{
+	border-bottom:1px solid black;
+}
+body#entry img{
+	float:left;
+	width:50%;
+	margin:0 1em 0 0;
+}
