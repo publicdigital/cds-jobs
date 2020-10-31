@@ -12,7 +12,7 @@ title: Submit a product to Less Mess
 </ul>
 <p>We'll carefully review your submission and if it looks like it's Less Mess, we'll post it to the site. If you leave your email, we'll let you know, too (and we won't send you any other junk mail).</p>
 
-<form name="submission" method="POST" data-netlify="true">
+<form name="submission" method="POST" data-netlify="true" action="/thanks">
   <p>
     <label>Your email <input type="email" name="email" /></label>
   </p>
