@@ -27,18 +27,11 @@ main{
 	text-align:left;
 	margin:2em auto;
 }
-ul.sections{
-	width:100%;
-	margin:0;
+h2{
+	margin:0 0 0.5em 0;
 	padding:0;
-	list-style-type: none;
 }
 
-ul.sections li{
-	display: inline-block;
-	margin-right:1em;
-	padding:2em;
-}
 body#entry main{
 	padding:1em;
 	overflow:auto;
@@ -71,6 +64,26 @@ body#entry img{
 	.full-details { 
 		grid-area: full-details; 
 	}
+	ul.sections,
+	ul.listings{
+		display: flex;
+		margin:2em 0 0 0;
+		padding:0;
+	}
+
+	ul.sections li,
+	ul.listings li{
+		flex: auto;
+		max-width:33%;
+		margin:0;
+		list-style-type: none;
+		padding:1em;
+		/*display: inline-block;
+		margin:0;
+		margin-right:1em;
+		padding:2em;
+		max-width:25%;*/
+	}
 }
 
 body#entry main h1 span{
@@ -92,4 +105,5 @@ body#entry main h1 a:active{
 
 main p{
 	line-height: 1.4em;
+	margin-top:0;
 }
