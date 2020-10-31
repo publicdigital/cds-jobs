@@ -1,9 +1,6 @@
 {%- include "header.njk" %}
   <body>
-  	<header>
-  	<h1><a href="/">Less Mess</a></h1>
-  	<p>Zero Waste alternatives for things you buy every day</p>
-    </header>
+  	{%- include "nav.njk" %}
     <main>
     {{ content | safe }}
     </main>

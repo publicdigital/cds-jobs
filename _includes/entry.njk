@@ -3,10 +3,7 @@ title: Basic template
 ---
 {%- include "header.njk" %}
   <body id="entry">
-  	<header>
-  	<h1><a href="/">Less Mess</a></h1>
-  	<p>Zero Waste alternatives for things you buy every day</p>
-    </header>
+  	{%- include "nav.njk" %}
     <main>
     {{ content | safe }}
     </main>
