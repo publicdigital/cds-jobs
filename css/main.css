@@ -24,7 +24,6 @@ header, header p{
 	padding:0;
 }
 main{
-	width:60%;
 	text-align:left;
 	margin:2em auto;
 }
@@ -52,22 +51,27 @@ body#entry img{
 	max-width:100%;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 0.5fr 0.5fr;
-  grid-template-rows: 1fr;
-  grid-template-areas:
-    "promo-image full-details";
-  gap: 0em 1em;
-}
+/*only want two columns when there's enough room*/
+@media(min-width: 48rem) {
+	main{
+	width:60%;
+	}
+	.grid-container {
+	  display: grid;
+	  grid-template-columns: 0.5fr 0.5fr;
+	  grid-template-rows: 1fr;
+	  grid-template-areas:
+	    "promo-image full-details";
+	  gap: 0em 1em;
+	}
 
-.promo-image { 
-	grid-area: promo-image; 
+	.promo-image { 
+		grid-area: promo-image; 
+	}
+	.full-details { 
+		grid-area: full-details; 
+	}
 }
-.full-details { 
-	grid-area: full-details; 
-}
-
 
 body#entry main h1 span{
 	font-size:75%;
