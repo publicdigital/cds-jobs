@@ -8,6 +8,7 @@ title: Submit a product to Less Mess
 <ul>
 	<li>Plastic-free - they should leave no plastic for the consumer to recycle</li>
 	<li>Zero-waste - or as close as possible. Compostable products are OK, as well as paper and cardboard recycling.</li>
+	<li>Replacing something that is already bought and consumed by most people and leaves behind trash.</li>
 </ul>
 <p>We'll carefully review your submission and if it looks like it's Less Mess, we'll post it to the site. If you leave your email, we'll let you know, too (and we won't send you any other junk mail).</p>
 
