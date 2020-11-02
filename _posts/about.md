@@ -14,6 +14,7 @@ title: About Less Mess
 	<li>Work well and worth your money</li>
 </ul>
 
+
 ### Plastic is the big problem
 <p>Even though plastic recycling is more accessible than ever before, just 8.4% of plastics overall<sup><a href="#ref1">[1]</a></sup> in the US are actually successfully recycled. Due to the high volume of plastics that simply can't be recycled, and those that can be but aren't good enough quality<sup><a href="#ref2">[2]</a></sup>, most of the plastic that gets put into the recycling system still ends up in landfill.</p>
 <p>Not only is recycling not the answer to the problem of plastic waste, but the need for more, new, plastic requires oil - an ever diminishing fossil fuel that pollutes oceans and destroys sealife<sup><a href="#ref3">[3]</a></sup>.</p>
