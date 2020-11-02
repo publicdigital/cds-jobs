@@ -8,7 +8,7 @@ title: Welcome to Less Mess
 
 <ul class="sections">
 {%- for category in collections.category -%}
-  <li><a href="{{ category.data.url }}">{{ category.data.title }}  🠮</a></li>
+  <li><a href="{{ category.data.url }}">{{ category.data.title }}</a></li>
 {%- endfor -%}
 </ul>
 

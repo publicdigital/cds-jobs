@@ -86,7 +86,10 @@ ul.sections{
 	margin:0;
 	padding:0;
 }
-
+ul.listings li,
+ul.sections li{
+	margin-bottom:1em;
+}
 ul.listings a,
 ul.sections a,
 .full-details a,
@@ -117,6 +120,9 @@ form button{
 ul.listings p,
 ul.sections p{
 	padding:1em 0.5em;
+}
+main{
+	padding:1em;
 }
 /*only want two columns when there's enough room*/
 @media(min-width: 48rem) {
