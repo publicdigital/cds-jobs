@@ -122,7 +122,8 @@ ul.sections a:hover,
 ul.sections a:active,
 .full-details a:hover,
 .full-details a:active,
-form button{
+form button:hover,
+form button:focus{
 	background-color: #f8b7db;
 	background-image: repeating-linear-gradient(120deg, transparent, transparent 35px, rgba(255,255,255,.5) 35px, rgba(255,255,255,.5) 70px);
 	
@@ -207,4 +208,35 @@ footer p{
 	max-width: 48em;
 	text-align:center;
 	margin:3em auto;
+}
+
+/* form */
+form{
+	padding:1em;
+	width:100%;
+}
+form label input,
+form label textarea{
+	display:block;
+	width:80%;
+	padding:0.5em;
+	margin-top:0.5em;
+	border:2px solid #abd9c2;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+  cursor: pointer;
+}
+form label input:focus,
+form label input:hover,
+form label textarea:focus,
+form label textarea:hover{
+	border-color: #f8b7db;
 }
