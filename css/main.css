@@ -104,7 +104,11 @@ form button{
 	font-weight: bold;
 	border:none;
 }
-
+ul.sections a::after,
+.full-details a::after,
+ul.listings a::after {
+  content: " ⇀";
+}
 
 ul.listings a:hover,
 ul.listings a:active,
