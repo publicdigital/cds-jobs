@@ -8,7 +8,7 @@ title: About Less Mess
 <ul>
 	<li>Are free from plastic</li>
 	<li>Are free from trash</li>
-	<li>May have refillable containers made of glass or metal</li>
+	<li>May have refillable containers made of glass, metal or cardboard</li>
 	<li>May have compostable packaging</li>
 	<li>May have recyclable cardboard or paper</li>
 	<li>Work well and worth your money</li>
