@@ -4,6 +4,15 @@ title: About Less Mess
 ---
 ## {{ title }}
 <p>It's easy to say "just use less" or "go green", but the truth is that we're all busy people who don't have the time to research and compare each individual item we need to purchase. At Less Mess, we're making it a little bit easier for you to make zero waste choices by researching and gathering up companies offering zero-waste-by-default and leave the consumer with no plastic.</p>
+<p>The products we recommend are:</p>
+<ul>
+	<li>Free from plastic</li>
+	<li>Free from trash</li>
+	<li>May have refillable containers made of glass or metal</li>
+	<li>May have compostable packaging</li>
+	<li>May have recyclable cardboard or paper</li>
+	<li>Work well and worth your money</li>
+</ul>
 
 ### Plastic is the big problem
 <p>Even though plastic recycling is more accessible than ever before, just 8.4% of plastics overall<sup><a href="#ref1">[1]</a></sup> in the US are actually successfully recycled. Due to the high volume of plastics that simply can't be recycled, and those that can be but aren't good enough quality<sup><a href="#ref2">[2]</a></sup>, most of the plastic that gets put into the recycling system still ends up in landfill.</p>
