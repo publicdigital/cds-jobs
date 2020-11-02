@@ -62,6 +62,11 @@ h2{
 	margin:0 0 0.5em 0;
 	padding:0;
 }
+p.intro{
+	font-size:3em;
+	line-height: 1.0em;
+	text-align: center;
+}
 
 body#entry main{
 	padding:1em;
@@ -175,4 +180,15 @@ body#entry main h1 a:active{
 main p{
 	line-height: 1.4em;
 	margin-top:0;
+}
+
+footer{
+	text-align:center;
+	margin:0 auto;
+	font-size:0.8em;
+}
+footer p{
+	max-width: 48em;
+	text-align:center;
+	margin:3em auto;
 }
