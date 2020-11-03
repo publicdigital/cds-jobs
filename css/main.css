@@ -160,12 +160,13 @@ main{
 		display: flex;
 		margin:2em 0 0 0;
 		padding:0;
+		flex-wrap: wrap;
 	}
 
 	ul.sections li,
 	ul.listings li{
 		flex: auto;
-		max-width:33%;
+		max-width:28%;
 		margin:0;
 		list-style-type: none;
 		padding:1em;
