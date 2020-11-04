@@ -10,5 +10,6 @@ title: Welcome to Less Mess
 {%- for category in collections.category -%}
   <li><a href="{{ category.data.url }}">{{ category.data.title }}</a></li>
 {%- endfor -%}
+  <li><a href="/all">See everything</a></li>
 </ul>
 
