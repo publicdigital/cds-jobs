@@ -1,7 +1,7 @@
 ---
 layout: entry.njk
 tags: bathroom
-url: bite
+url: unpaste
 title: Unpaste
 shortdesc: "Toothpaste tabs, available with fluoride"
 destination: "https://unpaste.us/"
