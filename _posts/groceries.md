@@ -2,7 +2,7 @@
 layout: page.njk
 tags: category
 url: groceries
-title: "Groceries"
+title: "Online Groceries"
 ---
 
 
