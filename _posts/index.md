@@ -1,14 +1,10 @@
 ---
 layout: page.njk
-title: Welcome to Less Mess
+title: Canada Digital Service Jobs
 ---
 
-<p class="intro">Find Zero Waste alternatives to products you buy every day.</p>
-<form>
-	<label>What are you looking for? 
-		<input type="search" placeholder="Try searching for 'shampoo', 'toothpaste' or 'cleaning'" />
-	</label>
-</form>
+<p class="intro">Intro</p>
+
 
 <ul class="sections">
 {%- for category in collections.category -%}
