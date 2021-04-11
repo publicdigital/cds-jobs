@@ -30,34 +30,34 @@ Product ownership. You know how to use a range of product management principles 
 * **Strategic ownership**. You can focus on outcomes, not solutions. You are bold and can develop ambitious visions and strategies. You know how to get the organisation and team to buy in. You can translate the vision into prioritised deliverable goals.
 * **User focus**. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs. You can engage in meaningful interactions and relationships with users.You put users first and can manage competing priorities.
 
-### Associate product manager (CS-02)
+<h3 id="associate">Associate product manager (CS-02)</h3>
 
 The Associate Product manager role is an entry-level product management position. It differs to the Product Management Role int he following ways:
 
 * Responisibility changes
 * Scope changes
 
-### Product manager (CS-03)
+<h3 id="pm">Product manager (CS-03)</h3>
 
 The Product manager role is an extension to the Associate Product management position. It differs to the Associate Product Management Role in the following ways:
 
 * Responisibility changes
 * Scope changes
 
-### Senior Product manager (CS-04)
+<h3 id="senior">Senior Product manager (CS-04)</h3>
 
 The Senior Product Manager role is an extension of the Product Manager role, and differs in the following ways:
 * Responisibility changes
 * Scope changes
 
-### Principle Product Manager (CS-05)
+<h3 id="principle">Principle Product Manager (CS-05)</h3>
 
 The Principle Product Manager role is an extension of the Senior Product Manager role, and differs in the following ways:
 * Responisibility changes
 * Scope changes
 
 
-### Head of Product Management (CS-05)
+<h3 id="head">Head of Product Management (CS-05)</h3>
 
 The Head of Product Management role is an extension of the Principle Product Manager role, and differs in the following ways:
 * Responisibility changes
