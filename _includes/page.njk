@@ -1,7 +1,11 @@
 {%- include "header.njk" %}
-  <body>
-  	{%- include "nav.njk" %}
-    <main>
-    {{ content | safe }}
-    </main>
+  <body class="{{ class }}">
+  	
+  	<h1><a href="/"><img src="https://digital.canada.ca/img/cds/cds-lockup-ko-en.svg" width="200px"/></a></h1>
+  	<div class="wrapper">
+	  	{%- include "nav.njk" %}
+	    <main class="main">
+	    {{ content | safe }}
+	    </main>
+    </div>
 {%- include "footer.njk" %}
