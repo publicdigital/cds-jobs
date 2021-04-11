@@ -1,15 +1,8 @@
 ---
 layout: page.njk
-title: Canada Digital Service Jobs
+title: Canadian Digital Service Jobs
 ---
 
-<p class="intro">Intro</p>
+## {{ title }}
 
-
-<ul class="sections">
-{%- for category in collections.category -%}
-  <li><a href="{{ category.data.url }}">{{ category.data.title }}</a></li>
-{%- endfor -%}
-  <li><a href="/all">See everything</a></li>
-</ul>
-
+An introductory statement explaining jobs at CDS, general ethos etc.

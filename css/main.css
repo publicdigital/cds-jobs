@@ -9,6 +9,8 @@ h1{
 	color:#fff;
 	margin:0;
 	padding:1em;
+	border-top:2px solid #FFCC33;
+	border-bottom:2px solid #FFCC33;
 }
 h1 a:active,
 h1 a:visited,
@@ -17,7 +19,14 @@ h1 a:link{
 	color:#fff;
 	text-decoration: none;
 }
-
+.smallprint{
+	text-align:right;
+	font-size:0.6em;
+	background-color:#000;
+	color:#fff;
+	padding:0.5em 1em;
+	margin:0;
+}
 .wrapper {
   display: grid;
   grid-template-columns: 1fr 3fr;
@@ -29,7 +38,7 @@ h1 a:link{
 
 .main{
 	background-color:#fff;
-	padding:1em 0 0 2em;
+	padding:1em 0 0 4em;
 }
 .main p, .main ul{
 	max-width: 800px;
@@ -41,6 +50,33 @@ h1 a:link{
 	background-color:#fff;
 	padding: 1em 0 0 2em;
 	font-weight: bold;
+}
+.nav ul{
+	list-style-type: none;
+	padding:0;
+	margin:0;
+}
+.nav ul li{
+	padding:0 0 0.5em 0;
+	margin:0;
+}
+.pm ul{
+	padding-top:0.5em;
+}
+.pm ul li{
+	padding:0 0 0.5em 1em;
+	margin:0;
+}
+
+.nav a:visited,
+.nav a:link{
+	text-decoration: none;
+	color:#000;
+}
+.nav a:active,
+.nav a:hover{
+	text-decoration: underline;
+	color:#000;
 }
 .pm ul{
 	display:none;

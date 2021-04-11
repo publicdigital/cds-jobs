@@ -15,7 +15,7 @@ Product managers are responsible for the efficacy of their products. They use th
 
 Product managers form the vision for their product based on outcomes and engage their teams, stakeholders and users in the iterative development of that vision over time. They learn about the people who can benefit from their products throughout the delivery process and use feedback and data insights to inform continuous improvement. They coordinate multidisciplinary delivery teams by managing scope and setting priorities.
 
-### Skills required to be a Product Manager (CS-03)
+### Skills required to be a Product Manager
 
 You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
 
@@ -33,6 +33,13 @@ Product ownership. You know how to use a range of product management principles 
 ### Associate product manager (CS-02)
 
 The Associate Product manager role is an entry-level product management position. It differs to the Product Management Role int he following ways:
+
+* Responisibility changes
+* Scope changes
+
+### Product manager (CS-03)
+
+The Product manager role is an extension to the Associate Product management position. It differs to the Associate Product Management Role in the following ways:
 
 * Responisibility changes
 * Scope changes
