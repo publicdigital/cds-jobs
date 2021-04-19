@@ -163,4 +163,6 @@ Role models the expected behaviours around being a connector within a team by pe
 
 <h3 id="head">Head of Product Management (CS-05)</h3>
 
-The Head of Product Management role is an similar to the Principle Product Manager role with the addition of people management. 
+The Head of Product Management role is similar to the Principle Product Manager role with the addition of people management. 
+
+<strong class="note">You could probably leave out the "head of" role entirely, since very few folks will be in this position / it's not on that you can be promoted into without a vacancy.</strong>
