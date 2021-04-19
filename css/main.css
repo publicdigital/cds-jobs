@@ -85,3 +85,7 @@ h1 a:link{
 .active .pm ul{
 	display:block;
 }
+
+.note{
+	background-color:yellow;
+}
